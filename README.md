@@ -1,4 +1,4 @@
-\# Agentic Data Analyst
+# Agentic Data Analyst
 
 
 
@@ -10,11 +10,14 @@ The system uses LLM tool calling, metadata retrieval, vector search, SQL executi
 
 
 
-\---
+---
 
 
+## Architecture
 
-\## Overview
+![Agentic Data Analyst Architecture](docs/architecture.png)
+
+## Overview
 
 
 
